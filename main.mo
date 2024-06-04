@@ -45,3 +45,4 @@ public func addNewStudent(student:Student): async Text {
     return "succesfully added student";
   }
 }
+
